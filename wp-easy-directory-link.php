@@ -12,7 +12,7 @@
  * Description:       Simple plugin to make a directory link listing
  * Version:           1.2
  * Author:            Alberto Ferrer
- * Author URI:        http://www.barraohme.org
+ * Author URI:        http://www.barrahome.org
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  */

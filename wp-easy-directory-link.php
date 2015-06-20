@@ -9,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP Easy Directory Link
  * Plugin URI:        https://wordpress.org/plugins/wp-easy-directory-link/
- * Description:       Simple plugin to make a directory link listing
+ * Description:       A simple and easy use plugin that allows to create a directory link page. Make software tools lists, digital resources or business address, all organized by categories.
  * Version:           1.3
  * Author:            Alberto Ferrer
  * Author URI:        http://www.barrahome.org

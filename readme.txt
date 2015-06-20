@@ -13,10 +13,9 @@ Stable tag: 4.4.4
 Simple plugin to make a directory link listing
 
 == Installation ==
-
-1.- Install
-2.- Create a page and place the shortcode [wp_edl_init]
-3.- Add Categories and Links
+* Create a page and place the shortcode [wp_edl_init]
+* Add Categories and Links
+* If you already use the Link Manager then you can include X categories as param Example: [wp_edl_init include="1,2,3,4,5"]
 
 == Frequently Asked Questions ==
 
@@ -28,11 +27,17 @@ Simple plugin to make a directory link listing
 
 == Upgrade Notice ==
 * shortcode [show_categories] renamed to [wp_edl_init]
+* now [wp_edl_init] can or not include an argument to include X categories, comma delimited, example: [wp_edl_init include="1,2,3,4,5"]
 
 == Screenshots ==
 Don't needed yet.
 
 == Changelog ==
+= 1.3 =
+* Added English translation.
+* Added another contributor.
+* Fixed developer URL.
+* Added shortcode params to include X categories. Example: [wp_edl_init include="1,2,3,4,5"]
 
 = 1.2 =
 * Moved functions to wp-easy-directory-link_functions.php

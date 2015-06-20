@@ -7,7 +7,7 @@
  * @package           wp-easy-directory-link
  * @subpackage        wp-easy-directory-link_functions.php
  * Description:       Simple plugin to make a directory link listing
- * Version:           1.2
+ * Version:           1.3
  * Author:            Alberto Ferrer
  * Author URI:        http://www.barraohme.org
  * License:           GPL-2.0+
@@ -30,10 +30,14 @@ function wp_easy_directory_link_languages() {
  * @since 1.2
  */
 
-function wp_easy_directory_link_init(){
+function wp_easy_directory_link_init($atts=''){
     $taxonomy = 'link_category';
     $title = 'Link Category: ';
-    $args ='';
+    if($atts){
+      $args = 'include='.$atts['include'];
+    } else {
+      $args = '';
+    }
     $terms = get_terms( $taxonomy, $args );
     $category = get_query_var('cat',1);
 

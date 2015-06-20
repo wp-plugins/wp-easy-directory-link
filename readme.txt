@@ -13,8 +13,9 @@ Stable tag: 4.4.4
 A simple and easy use plugin that allows to create a directory link page. Make software tools lists, digital resources or business address, all organized by categories.
 
 == Installation ==
-* Create a page and place the shortcode [wp_edl_init]
-* Add Categories and Links
+* Download and activate this plugin
+* Create a new page and place the shortcode [wp_edl_init]
+* Use the Wordpress Link Manager to add new categories and links
 * If you already use the Link Manager then you can include X categories as param Example: [wp_edl_init include="1,2,3,4,5"]
 
 == Frequently Asked Questions ==

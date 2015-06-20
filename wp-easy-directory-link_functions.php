@@ -6,7 +6,7 @@
  * @since             1.0.0
  * @package           wp-easy-directory-link
  * @subpackage        wp-easy-directory-link_functions.php
- * Description:       A simple and easy use plugin that allows to create a directory link page. Make software tools lists, digital resources or business address, all organized by categories.
+ * Description:       A plugin that allows to create a directory link page. Make software tools lists, digital resources or business address, all organized by categories.
  * Version:           1.3
  * Author:            Alberto Ferrer
  * Author URI:        http://www.barraohme.org

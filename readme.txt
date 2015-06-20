@@ -3,7 +3,7 @@ Contributors: barrahome, scarnago
 Donate link: http://www.barrahome.org
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl.html
-Tags: simple, directory, links, listing
+Tags: simple, directory, links, listing, easy
 Requires at least: 3.3
 Tested up to: 4.1.1
 Stable tag: 4.4.4

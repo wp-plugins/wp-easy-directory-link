@@ -10,7 +10,7 @@ Stable tag: 4.4.4
 
 
 == Description ==
-Simple plugin to make a directory link listing
+A simple and easy use plugin that allows to create a directory link page. Make software tools lists, digital resources or business address, all organized by categories.
 
 == Installation ==
 * Create a page and place the shortcode [wp_edl_init]

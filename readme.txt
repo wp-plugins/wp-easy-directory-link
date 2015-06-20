@@ -1,6 +1,6 @@
 === WP Easy Directory Link ===
 Contributors: barrahome, scarnago
-Donate link: https://www.barrahome.org
+Donate link: http://www.barrahome.org
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: simple, directory, links, listing
